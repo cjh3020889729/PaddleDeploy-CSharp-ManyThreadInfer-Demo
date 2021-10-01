@@ -24,6 +24,6 @@
 
 ## 多线程效果--非GUI
 
-![命令行推理效果图片]()
+![命令行推理效果图片](./images/many_infer.png)
 
 > gui下的多线程实现，可参考本项目对应[C#部署例程](https://github.com/PaddlePaddle/PaddleX/tree/develop/examples/C%23_deploy)进行需求修改实现。
