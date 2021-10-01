@@ -21,3 +21,9 @@
 - 工具->NuGet 包管理->程序包管理控制台， 输入System.Drawing.Common，下载后安装到项目中
 
 > 其它信息可参考PaddleX的[C#部署例程](https://github.com/PaddlePaddle/PaddleX/tree/develop/examples/C%23_deploy)。
+
+## 多线程效果--非GUI
+
+![命令行推理效果图片]()
+
+> gui下的多线程实现，可参考本项目对应[C#部署例程](https://github.com/PaddlePaddle/PaddleX/tree/develop/examples/C%23_deploy)进行需求修改实现。
